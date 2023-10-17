@@ -36,10 +36,10 @@ jobs:
           uid: 'PFHMKS0'
           pass: ${{ secrets.TSO_TOKEN }}
           runtimeConfiguration: 'ICCGA'
-          stream: 'FTSDEMO'
-          application: 'MKS1'
-          checkoutLevel: 'QA1'
-          gitUid: 'manosing'
+          stream: 'GITFLOW'
+          application: 'GITFLOWD'
+          checkoutLevel: 'FEAT'
+          gitUid: 'msingh9999'
           gitPass: ${{ secrets.GIT_USER1_PWD }}
           token: ${{ secrets.GH_TOKEN }}
           winTopazPath: ${{ env.Win_Topaz_Location }}
