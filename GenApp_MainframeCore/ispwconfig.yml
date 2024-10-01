@@ -6,7 +6,7 @@ ispwApplication:
   stream: GITFLOW
   application: GITFLOWD
   assignmentPrefix: GFLD
-  sandbox: N
+  sandbox: Y
   pathMappings:
   - path: "**/Sources/Progs"
     types:
