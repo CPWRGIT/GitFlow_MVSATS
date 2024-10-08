@@ -1,5 +1,6 @@
 //@Library('GitFlow_Shared_Lib@main') _
-@Library('GitFlow_Shared_Lib@WithDummyTT') _
+//@Library('GitFlow_Shared_Lib@WithDummyTT') _
+@Library('GitFlow_Shared_Lib@jenkinsInsteadOfXlr') _
 
 String demoEnvironment      = 'CWCC'
 String hostCredentialsId    = 'PFHMKS0'                   /* Change to Jenkins credentials ID for Host userid/password            */
