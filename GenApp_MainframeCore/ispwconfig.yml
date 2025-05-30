@@ -12,8 +12,6 @@ ispwApplication:
     types:
     - fileExtension: cbl
       ispwType: COB
-      sql: 'No'
-      cics: 'No'
     - fileExtension: pli
       ispwType: PLI
   - path: "**/Sources/Subs"
@@ -21,12 +19,6 @@ ispwApplication:
     - fileExtension: cbl
       ispwType: COB
       progType: 'No'
-      sql: 'Yes'
-      cics: 'Yes'
-      flag1: A
-      flag2: B
-      flag3: C
-      flag4: D
     - fileExtension: pli
       ispwType: PLI
       progType: 'No'
