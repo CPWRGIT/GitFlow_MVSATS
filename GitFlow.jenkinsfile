@@ -4,11 +4,11 @@
 @Library('GitFlow_Shared_Lib@withSandboxAtFEAT') _
 
 String demoEnvironment      = 'CWCC'
-String hostCredentialsId    = 'PFHMKS0'                   /* Change to Jenkins credentials ID for Host userid/password            */
-String cesCredentialsId     = 'PFHMKS0-CES'                    /* Change to Jenkins credentials ID for CES token                       */
-String gitRepoUrl           = 'https://github.com/CPWRGIT/GitFlow_PFHMKS0.git'                        /* Change "<repo>" to user specific repository name                     */
-String gitCredentialsId     = 'a7500faf-0dd3-42b5-8b00-0553524a79d2'           /* Change to Jenkins credentials ID for GitHub personal access token    */
-String ccRepo               = 'PFHMKS0.XPCOVER.REPOSIT'                  /* Change to user specific code coverage repository                     */
+String hostCredentialsId    = 'MVSATS'                   /* Change to Jenkins credentials ID for Host userid/password            */
+String cesCredentialsId     = 'MVSATS-CES'                    /* Change to Jenkins credentials ID for CES token                       */
+String gitRepoUrl           = 'https://github.com/ajsawant09/GitFlow_MVSATS.git'                        /* Change "<repo>" to user specific repository name                     */
+String gitCredentialsId     = 'MVSATS_GITHUB'           /* Change to Jenkins credentials ID for GitHub personal access token    */
+String ccRepo               = 'MVSATS.XPCOVER.REPOSIT'                  /* Change to user specific code coverage repository                     */
 
 GitFlow_Main(
     demoEnvironment:    demoEnvironment,   
