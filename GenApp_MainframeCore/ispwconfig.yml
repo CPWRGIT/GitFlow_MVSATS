@@ -4,8 +4,8 @@ ispwApplication:
   port: 16196
   runtimeConfig: iccga
   stream: GITFLOW
-  application: GITFLOWD
-  assignmentPrefix: GFLD
+  application: GITFLOWG
+  assignmentPrefix: GFLG
   sandbox: Y
   pathMappings:
   - path: "**/Sources/Progs"
