@@ -6,7 +6,7 @@
       *                                                                *
       *  THIS CALLED PROGRAM IS THE COBOL DEMO PROGRAM USED FOR        *
       *  XPEDITER/TSO TRAINING SESSIONS.  MKS-09/05-30 16:22           *
-      *   DT - 30 - SEPT - 2025                                        *
+      *   DT - 01 - oct - 2025                                        *
       *  CALCULATES COMMISIONS FOR SALES AND MANAGEMENT EMPLOYEE       *
       *  BASED ON MONTHLY SALES RATES                                  *
       *                                                                *
