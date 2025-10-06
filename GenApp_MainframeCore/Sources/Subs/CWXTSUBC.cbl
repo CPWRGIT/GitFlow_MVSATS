@@ -6,7 +6,7 @@
       *                                                                *
       *  THIS CALLED PROGRAM IS THE COBOL DEMO PROGRAM USED FOR        *
       *  XPEDITER/TSO TRAINING SESSIONS.  AJS DEMO 06 OCT 2025         *
-      *  This is the new change made for demo purpose                                                              *
+      *  This is the new change made for demo purpose Dt 6 oct                                                             *
       *  CALCULATES COMMISIONS FOR SALES AND MANAGEMENT EMPLOYEE       *
       *  BASED ON MONTHLY SALES RATES                                  *
      ******************************************************************
