@@ -6,7 +6,8 @@
       *                                                                *
       *  THIS CALLED PROGRAM IS THE COBOL DEMO PROGRAM USED FOR        *
       *  XPEDITER/TSO TRAINING SESSIONS.  AJS DEMO 11 OCT 2025         *
-      *  Test commit to check security issue                           *
+      *  Test commit to check security issue 
+      * CES Token changes                      *
       *  CALCULATES COMMISIONS FOR SALES AND MANAGEMENT EMPLOYEE       *
       *  BASED ON MONTHLY SALES RATES                                  *
      ******************************************************************
