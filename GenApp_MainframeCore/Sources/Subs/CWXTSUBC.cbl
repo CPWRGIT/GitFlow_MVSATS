@@ -5,11 +5,11 @@
       ******      C O M P U W A R E   C O R P O R A T I O N       ******
       *                                                                *
       *  THIS CALLED PROGRAM IS THE COBOL DEMO PROGRAM USED FOR        *
-      *  XPEDITER/TSO TRAINING SESSIONS.  AJS DEMO 11 OCT 2025         *
+      *  XPEDITER/TSO TRAINING SESSIONS.  AJS DEMO 27 OCT 2025         *
       *  Test commit to check security issue 
       * CES Token changes                      *
       *  CALCULATES COMMISIONS FOR SALES AND MANAGEMENT EMPLOYEE       *
-      *  BASED ON MONTHLY SALES RATES                                  *
+      *  BASED ON MONTHLY SALES RATES         dt - 27 0ct              *
      ******************************************************************
        ENVIRONMENT DIVISION.
        DATA DIVISION.
