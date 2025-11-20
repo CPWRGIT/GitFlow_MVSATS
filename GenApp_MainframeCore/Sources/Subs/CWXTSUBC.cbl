@@ -8,7 +8,8 @@
       *  XPEDITER/TSO TRAINING SESSIONS.  AJS DEMO DT - 20 NOV 2025    *
       *  CALCULATES COMMISIONS FOR SALES AND MANAGEMENT EMPLOYEE       *
       *  BASED ON MONTHLY SALES RATES                                  *
-     ******************************************************************
+      *  adding new comment to check the CP - GIT Ontegration          *
+      ******************************************************************
        ENVIRONMENT DIVISION.
        DATA DIVISION.
        WORKING-STORAGE SECTION.
